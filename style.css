@@ -1,0 +1,17 @@
+h1 {color:#f2e3a4}
+.header{
+    background-color:#e5b3a4;
+    display:flex;
+    justify-content:space-between;
+}
+.game{
+    display:flex;
+ justify-content: space-evenly;
+ flex-wrap: wrap;
+}
+h2,p{
+    text-align: center;
+}
+body{
+    background-color:#e03c6b
+}
